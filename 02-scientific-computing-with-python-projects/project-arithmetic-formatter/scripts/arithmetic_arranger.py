@@ -70,4 +70,4 @@ def arithmetic_arranger(math_problems, display=False):
 
 
 
-# print(arithmetic_arranger())
+print(arithmetic_arranger())
