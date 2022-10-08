@@ -15,7 +15,7 @@ In the Scientific Computing with Python Certification, you'll learn Python funda
 1. Python for Everybody
 2. Scientific Computing with Python Projects
 
-## About the Current Repository
+## Repository Description
 
 This repository contains code from reading or video tutorial format discussed in the lessons or courses in this certification. Some instructors may provide their source code files hosted on GitHub or links to download the source code from the course website directly. However, it is usually scattered all over the courses. Therefore, it has been recompised in the general order presented in the course but with some additional materials and explanations.
 
