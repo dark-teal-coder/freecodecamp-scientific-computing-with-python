@@ -1,6 +1,6 @@
-<!-- This is the current repository's README file. -->
+<!-- README file for freeCodeCamp -->
 
-# Scientific Computing with Python Certification
+# freeCodeCamp Scientific Computing with Python Certification
 
 Certification: [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 
