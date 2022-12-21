@@ -1,5 +1,7 @@
 <!-- This is a README file for a project. -->
 
+# Probability Calculator
+
 # Metadata
 
 - <ins>Project Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
