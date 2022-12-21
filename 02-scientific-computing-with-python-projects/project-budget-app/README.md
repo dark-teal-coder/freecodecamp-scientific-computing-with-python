@@ -2,13 +2,13 @@
 
 # Budget App
 
-# Metadata
+## Metadata
 
 - <ins>Project Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
 - <ins>First Published Date</ins>: 2022-00-00
 - <ins>Last Modified Date</ins>: 2022-00-00
 
-# Project
+## Project
 
 - <ins>Title</ins>: Budget App
 - <ins>Difficulty</ins>:
@@ -20,13 +20,13 @@
   - [ ] Medium
   - [ ] Big
 
-# Description
+## Description
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-# Installation
+## Installation
 
-## Tools
+### Tools
 
 - Text Editor or Integrated Development Environment (IDE)
   - You can [download the famous text editor Notepad++](https://notepad-plus-plus.org/downloads/).
@@ -38,7 +38,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 - Command-line interface (CLI)
   - You can [install the open-source PowerShell on Windows, Linux and macOS](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell) if you do not have or want to use a pre-installed CLI on your local machine.
 
-## How-to
+### How-to
 
 Check if you have Python installed using the command `python --version`, or simply, `python version`, in the CLI. [Git-clone the project repository from Github](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to the local machine. Use the command `py -m pip install package_name` to install the necessary Python libraries. Check out [pip documentation](https://pip.pypa.io/en/stable/cli/pip_install/) to learn more about `pip install`. Check the top part of the `.py` script file for the list of libraries required. For example, you may need `requests` and `beautifulsoup4` libraries if you see the following lines in the top part of the script file:
 
@@ -49,31 +49,31 @@ from bs4 import BeautifulSoup
 
 If `pip` fails to locate the relevant packages, you may find it at [Python Package Index (PyPI)](https://pypi.org/). Use `python file_name.py` to run the script in a CLI. Or, use an IDE, such as VS Code, to run the script. There will usually be a [Run] button in the top right corner of the opened script file.
 
-# Credits
+## Credits
 
-## Contributors
+### Contributors
 
 1. [@dark-teal-coder](github.com/dark-teal-coder)
 
-## References
+### References
 
-### Lecture Materials
-
-- N/A
-
-### Data
+#### Lecture Materials
 
 - N/A
 
-### Documentations
+#### Data
+
+- N/A
+
+#### Documentations
 
 - N/A
 - N/A
 
-### Tutorials
+#### Tutorials
 
 - N/A
 
-### Solutions
+#### Solutions
 
 - N/A
