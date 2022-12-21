@@ -6,14 +6,14 @@
 - <ins>First Published Date</ins>: 2022-00-00
 - <ins>Last Modified Date</ins>: 2022-00-00
 
-# Project
+## Project
 
-- <ins>Title</ins>: Arithmetic Formatter
-- <ins>Difficulty</ins>:
+- **Title**: *Arithmetic Formatter*
+- **Difficulty**:
   - [ ] Beginner
   - [ ] Intermediate
   - [ ] Advanced
-- <ins>Scale</ins>:
+- **Scale**:
   - [ ] Small
   - [ ] Medium
   - [ ] Big
