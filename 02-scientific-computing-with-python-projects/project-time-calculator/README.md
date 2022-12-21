@@ -10,12 +10,12 @@
 
 ## Project
 
-- <ins>Title</ins>: Time Calculator
-- <ins>Difficulty</ins>:
+- **Title**: *Time Calculator*
+- **Difficulty**:
   - [ ] Beginner
   - [ ] Intermediate
   - [ ] Advanced
-- <ins>Scale</ins>:
+- **Scale**:
   - [ ] Small
   - [ ] Medium
   - [ ] Big
