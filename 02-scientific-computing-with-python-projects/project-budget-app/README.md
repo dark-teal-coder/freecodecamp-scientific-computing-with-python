@@ -10,12 +10,12 @@
 
 ## Project
 
-- <ins>Title</ins>: Budget App
-- <ins>Difficulty</ins>:
+- **Title**: *Budget App*
+- **Difficulty**:
   - [ ] Beginner
   - [ ] Intermediate
   - [ ] Advanced
-- <ins>Scale</ins>:
+- **Scale**:
   - [ ] Small
   - [ ] Medium
   - [ ] Big
