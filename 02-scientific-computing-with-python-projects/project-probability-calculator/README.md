@@ -10,12 +10,12 @@
 
 ## Project
 
-- <ins>Title</ins>: Probability Calculator
-- <ins>Difficulty</ins>:
+- **Title**: *Probability Calculator*
+- **Difficulty**:
   - [ ] Beginner
   - [ ] Intermediate
   - [ ] Advanced
-- <ins>Scale</ins>:
+- **Scale**:
   - [ ] Small
   - [ ] Medium
   - [ ] Big
