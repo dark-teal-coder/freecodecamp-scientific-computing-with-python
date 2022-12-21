@@ -10,12 +10,12 @@
 
 ## Project
 
-- <ins>Title</ins>: Polygon Area Calculator
-- <ins>Difficulty</ins>:
+- **Title**: *Polygon Area Calculator*
+- **Difficulty**:
   - [ ] Beginner
   - [ ] Intermediate
   - [ ] Advanced
-- <ins>Scale</ins>:
+- **Scale**:
   - [ ] Small
   - [ ] Medium
   - [ ] Big
